@@ -1,9 +1,9 @@
 # Cellular Library
 
-3rd party jvascript libraries implemented by the Cellular base theme.
+3rd party javascript libraries exposed by the Cellular base theme.
 
-Copy the contents of this repo to  `/sites/all/libraries/cellular/` and select
-which plugins to enable from the theme settings (`admin/appearance/settings/YourThemeName`).
+Copy the contents of this repo to  `/sites/all/libraries/cellular` and select
+which plugins to enable from the Drupal admin panel theme settings (`admin/appearance/settings/YourThemeName`).
 
 ### jQuery
 https://jquery.org/license/
